@@ -1,0 +1,83 @@
+[
+    {
+        "from": "2010-08-31",
+        "to": "2018-07-06",
+        "title": "Viktoria Gymnasium",
+        "category": "education",
+        "description": "2018 Allgemeine Hochschulreife erlangt",
+        "reflection": "The mytochondria is the powerhouse of the cell",
+        "resources": ["http://sooos", "soaaaas"]
+    },
+    {
+        "from": "2017-02-06",
+        "to": "2018-08-31",
+        "title": "Aushilfe Hellweg Essen",
+        "category": "work",
+        "description": "Nebenjob bei Hellweg Regale einräumen. Man kennts, nix besonderes",
+        "reflection": "Ich kenne diesen Baumarkt wie meine Westentasche. Was mir meinen privaten Einkauf erheblich erleichtert hat",
+        "resources": []
+    },
+    {
+        "from": "2018-08-01",
+        "to": "2019-07-31",
+        "title": "IJFD Auslandsjahr",
+        "category": "volunteering",
+        "description": "Im Rahmen eines Internationalen Jugend Freiwilligen Dienstes habe ich ein Jahr in Chicago verbracht, wo ich in einem Obdachlosenheim tätig war.",
+        "reflection": "Amerikanische Häuser sind tatsächlich aus Pappmaschee gebaut.",
+        "resources": []
+    },
+    {
+        "from": "2019-09-15",
+        "to": "2020-02-19",
+        "title": "Vapiano",
+        "category": "work",
+        "description": "Front Cook bei Vapiano auf der Rü (Essen).",
+        "reflection": "Dual wielding von Woks. Ach ja und wenn man Mitarbeiter des Monats werden will sag einfach dass du vorhast zu kündigen.",
+        "resources": []
+    },
+    {
+        "from": "2020-11-02",
+        "to": "2021-03-31",
+        "title": "Logik Tutor (remote)",
+        "category": "work",
+        "description": "Hausaufgaben korrigieren und erklären",
+        "reflection": "In einem digitalen Team zu arbeiten",
+        "resources": []
+    },
+    {
+        "from": "2021-04-12",
+        "to": "2021-09-11",
+        "title": "AFS Tutor (remote)",
+        "category": "work",
+        "description": "Hausaufgaben korrigieren und erklären",
+        "reflection": "Videos zu schneiden dauert länger als sie aufzunehmen",
+        "resources": []
+    },
+    {
+        "from": "2021-06-01",
+        "to": "2022-03-31",
+        "title": "Studentische Hilfskraft",
+        "category": "work",
+        "description": "Erstellen einer Website welche Markdown Kursinhalte mit Docusaurus präsentiert.",
+        "reflection": "Github Action Workflows aufsetzen",
+        "resources": []
+    },
+    {
+        "from": "2021-10-11",
+        "to": "2022-03-18",
+        "title": "Logik Tutor",
+        "category": "work",
+        "description": "Hausaufgaben korrigieren und erklären",
+        "reflection": "Vor Leuten zu sprechen",
+        "resources": []
+    },
+    {
+        "from": "2019-10-01",
+        "to": "2023-10-01",
+        "title": "Informatik Studium",
+        "category": "education",
+        "description": "Bachelor Angewandte Informatik an der Universität Duisburg-Essen",
+        "reflection": "Mathe ist gar nicht so schlimm wie ich immer dachte",
+        "resources": []
+    }
+]

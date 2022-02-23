@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Programmiersprachen",
+      "entries": [
+        {"name": "Javascript", "confidence": 5 },
+        {"name": "typescript","confidence": 10},
+        {"name": "python", "confidence": 8},
+        {"name": "Java","confidence": 2}
+      ]
+    },
+    {
+      "title": "Web Frameworks",
+      "entries": [
+        {"name": "React", "confidence": 5},
+        {"name": "Sveltekit", "confidence": 9},
+        {"name": "Flask", "confidence": 3}
+      ]
+    },
+    {
+      "title": "CSS Stuff",
+      "entries": [
+        {"name": "Bootstrap 5", "confidence": 9},
+        {"name": "Tailwind", "confidence": 5},
+        {"name": "Windi CSS", "confidence": 6},
+        {"name": "Sass", "confidence": 6}
+      ]
+    },
+    {
+      "title": "JS Libraries",
+      "entries": [
+        {"name": "jQuery", "confidence": 9},
+        {"name": "D3", "confidence": 5},
+        {"name": "mongoose", "confidence": 6},
+        {"name": "express", "confidence": 5}
+      ]
+    }
+  ]

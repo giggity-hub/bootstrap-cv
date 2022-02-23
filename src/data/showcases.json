@@ -1,0 +1,40 @@
+[
+    {
+      "title": "Dirt Tea",
+      "preview": "/images/dirt-tea.png",
+      "description": "Ice Tea Name Generator inspiriert durch eine Folge des Lästerschwestern Podcasts",
+      "repository": "https://github.com/giggity-hub/ice-tea-name-generator",
+      "deployment": "https://ice-tea-name-generator.vercel.app/",
+      "state": "finished"
+    },
+    {
+      "title": "Material Moodle",
+      "preview": "/images/material-moodle.png",
+      "description": "Eine Browser Extendo welche das Moodle meiner Uni um eine vertikale Navbar bereichert",
+      "repository": "https://github.com/giggity-hub/material-moodle",
+      "deployment": "https://chrome.google.com/webstore/detail/material-moodle/befadaejoghoogkihlidiicbnbfoplei?hl=de",
+      "state": "in development"
+    },
+    {
+      "title": "Ferien Karte",
+      "preview": "/images/ferien-karte.png",
+      "description": "Visualisierung der Schulferien nach Bundesland damit man seinen nächsten Ausflug in den Moviepark besser planen kann",
+      "repository": "https://github.com/giggity-hub/ferien-karte",
+      "deployment": "https://ferien-karte.vercel.app/",
+      "state": "in development"
+    },
+    {
+      "title": "KeyboardHero",
+      "preview": "/images/keyboard-hero.png",
+      "description": "Imagine Typeracer + Guitar Hero",
+      "repository": "https://github.com/giggity-hub/keyboardhero",
+      "deployment": "https://keyboardhero.vercel.app/"
+    },
+    {
+        "title": "Practical Data Science",
+        "preview": "/images/practical-data-science.png",
+        "description": "Ne Docusaurus Website die ich für einen Prof an der Uni erstellt habe",
+        "repository": "https://github.com/zesch/practical-data-science",
+        "deployment": "https://zesch.github.io/practical-data-science/"
+    }
+  ]

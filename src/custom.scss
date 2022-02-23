@@ -1,0 +1,51 @@
+@import "../node_modules/bootstrap/scss/functions";
+
+$body-bg: #161819;
+$body-color: rgb(197, 197, 197);
+
+
+$card-bg: #1F2123;
+
+$theme-colors: (
+  "primary":  #56CBF9,
+  "secondary": #EF476F
+);
+$progress-bg: #1F2123;
+// $accordion-bg: ;
+$accordion-button-bg: $card-bg;
+$accordion-button-active-bg: $card-bg;
+$accordion-button-active-color: $body-color;
+
+// $gradient: 
+
+// background-color: #4158D0;
+// background-image: 
+
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+.border{
+  border-color: #1F2123 !important;
+}
+
+.hero-text{
+  font-size: 5rem;
+}
+
+.hero-gradient{
+  background: linear-gradient(0deg, var(--bs-body-bg) 0%, rgba(0,0,0,1) 100%);
+}
+
+@include media-breakpoint-up(sm) {
+  .hero-text {
+    font-size: 7rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .hero-text {
+    font-size: 10rem;
+  }
+}

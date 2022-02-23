@@ -2,17 +2,17 @@
     {
       "title": "Programmiersprachen",
       "entries": [
-        {"name": "Javascript", "confidence": 5 },
-        {"name": "typescript","confidence": 10},
-        {"name": "python", "confidence": 8},
+        {"name": "Javascript", "confidence": 9 },
+        {"name": "typescript","confidence": 7},
+        {"name": "python", "confidence": 6},
         {"name": "Java","confidence": 2}
       ]
     },
     {
       "title": "Web Frameworks",
       "entries": [
-        {"name": "React", "confidence": 5},
-        {"name": "Sveltekit", "confidence": 9},
+        {"name": "React", "confidence": 4},
+        {"name": "Sveltekit", "confidence": 8},
         {"name": "Flask", "confidence": 3}
       ]
     },
@@ -21,7 +21,7 @@
       "entries": [
         {"name": "Bootstrap 5", "confidence": 9},
         {"name": "Tailwind", "confidence": 5},
-        {"name": "Windi CSS", "confidence": 6},
+        {"name": "Windi CSS", "confidence": 7},
         {"name": "Sass", "confidence": 6}
       ]
     },
